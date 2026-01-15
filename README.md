@@ -19,5 +19,6 @@ Tools & Methods • Python for: • Data cleaning and quality checks • Data tr
 Dataset • Source: Public Fitbit Fitness Tracker dataset hosted on Kaggle • Scope: Daily activity, sleep, calories, steps, and related user behavior signals • Note: This dataset represents Fitbit users and may not fully reflect Bellabeat’s target population; recommendations are made with this limitation in mind.
 
 Deliverables • A clear summary of the top usage trends found in the data • Visualizations that support and explain each insight • Practical, marketing-ready recommendations tailored to Bellabeat’s goals • Published case study: • Medium: Google Capstone Project: How Can Bellabeat, A Wellness Technology Company Play It Smart? 
-Kaggle: Bellabeat Case Study
 
+Kaggle: Bellabeat Case Study
+https://www.kaggle.com/datasets/arashnic/fitbit
